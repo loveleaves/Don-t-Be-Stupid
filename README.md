@@ -6,7 +6,7 @@
 
 origin：https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way
 
-markdown：[how to ask question the smart way](./how to ask question the smart way.md)
+markdown：[how-to-ask-question-the-smart-way](./how-to-ask-question-the-smart-way.md)
 
 
 
