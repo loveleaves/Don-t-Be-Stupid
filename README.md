@@ -10,3 +10,10 @@ markdown：[how-to-ask-question-the-smart-way](./how-to-ask-question-the-smart-w
 
 
 
+## Life
+
+###  how to behave
+
+> In my opinion, high emotional intelligence means better self-understanding, self-control and self-improvement 
+
+[eight-ways-to-improve-your-emotional-intelligence](./eight-ways-to-improve-your-emotional-intelligence.md)
